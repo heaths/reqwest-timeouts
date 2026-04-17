@@ -55,9 +55,5 @@ cargo run -q -- timeout --timeout 1 --server-delay 3
 
 See [AGENTS.md](AGENTS.md) for the full test plan covering every scenario.
 
-## Formatting
-
-```bash
-npm run fmt          # auto-format JS, Markdown (prettier) + Rust (cargo fmt)
-npm run fmt:check    # check only — used in CI
-```
+See [CONTRIBUTING.md](CONTRIBUTING.md) for setup, formatting, and contribution
+guidelines.
