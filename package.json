@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "fmt": "prettier --write . && cargo fmt",
+    "fmt:check": "prettier --check . && cargo fmt --check"
+  },
+  "dependencies": {
+    "express": "^4"
+  },
+  "devDependencies": {
+    "prettier": "^3"
+  }
+}

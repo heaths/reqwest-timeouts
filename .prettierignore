@@ -1,0 +1,8 @@
+# Rust files (use cargo fmt instead)
+*.rs
+Cargo.toml
+Cargo.lock
+
+# Generated
+target/
+package-lock.json
