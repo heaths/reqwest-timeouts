@@ -26,6 +26,8 @@ npm install && cargo build
   Rust).
 - For non-formatting code changes, also run the test scenarios below.
 
+See [CONTRIBUTING.md](CONTRIBUTING.md) for setup and formatting details.
+
 ## CLI subcommands
 
 | Subcommand        | Tests                              | Key flags                                                     |
